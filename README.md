@@ -1,1 +1,0 @@
-# static-comp-2
